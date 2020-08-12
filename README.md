@@ -9,7 +9,9 @@ Azure Cloud Final Project
   - [구현](#구현)
   - [운영](#운영)
 # 교육 site
-- https://msaschool.io/#/%EC%86%8C%EA%B0%9C/01_MSA%20School%20%EC%86%8C%EA%B0%9C
+- MSA school: https://msaschool.io/#/%EC%86%8C%EA%B0%9C/01_MSA%20School%20%EC%86%8C%EA%B0%9C
+- 실습 스크립트 : https://workflowy.com/s/msa/27a0ioMCzlpV04Ib
+- MSA ez : http://msaez.io/#/
 # Project milestone
 - 연제경
   - 일정 관리
