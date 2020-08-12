@@ -14,7 +14,7 @@ Azure Cloud Final Project
 - MSA ez : http://msaez.io/#/
 # Project milestone
 - 연제경
-  - 일정 관리
+  - Github 및 일정 관리
 - 성은주
 - 노필호
 - 박유리
