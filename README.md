@@ -9,7 +9,7 @@ Azure Cloud Final Project
   - [운영](#운영)
 # Project milestone
 - 연제경
-  -  Github 관리
+  - 일정 관리
 - 성은주
 - 노필호
 - 박유리
