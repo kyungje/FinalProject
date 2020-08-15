@@ -15,6 +15,7 @@ Azure Cloud Final Project
 # Project milestone
 - 연제경
   - Github 및 일정 관리
+  - 실습 스크립트 생성
 - 성은주
 - 노필호
 - 박유리
